@@ -1,0 +1,14 @@
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\obj\Debug\net6.0\task capacity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\obj\Debug\net6.0\task capacity.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\obj\Debug\net6.0\task capacity.AssemblyInfo.cs
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\obj\Debug\net6.0\task capacity.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\bin\Debug\net6.0\task capacity.exe
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\bin\Debug\net6.0\task capacity.deps.json
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\bin\Debug\net6.0\task capacity.runtimeconfig.json
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\bin\Debug\net6.0\task capacity.dll
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\bin\Debug\net6.0\task capacity.pdb
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\obj\Debug\net6.0\task capacity.dll
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\obj\Debug\net6.0\refint\task capacity.dll
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\obj\Debug\net6.0\task capacity.pdb
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\obj\Debug\net6.0\task capacity.genruntimeconfig.cache
+C:\Users\Emil\Desktop\code academy task\task 17\task capacity\task capacity\obj\Debug\net6.0\ref\task capacity.dll
